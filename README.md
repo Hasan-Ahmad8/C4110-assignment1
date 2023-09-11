@@ -1,3 +1,3 @@
 # C4110-assignment1
-Hasan AHmad
+Hasan Ahmad
 hl5846
